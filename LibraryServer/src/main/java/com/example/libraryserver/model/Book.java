@@ -1,6 +1,8 @@
 package com.example.libraryserver.model;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
+
+
 import lombok.Data;
 
 @Entity
@@ -10,6 +12,7 @@ public class Book {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long bookId;
+
 
     @Column(nullable = false)
     private String title;

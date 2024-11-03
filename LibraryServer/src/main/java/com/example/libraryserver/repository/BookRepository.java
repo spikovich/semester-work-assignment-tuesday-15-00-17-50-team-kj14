@@ -1,6 +1,6 @@
 package com.example.libraryserver.repository;
 
-import com.example.LibraryServer.model.Book;
+import com.example.libraryserver.model.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

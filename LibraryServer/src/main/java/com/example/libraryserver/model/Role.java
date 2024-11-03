@@ -4,7 +4,6 @@ import jakarta.persistence.*;
 
 import jakarta.persistence.*;
 import lombok.Data;
-import org.springframework.data.annotation.Id;
 
 @Entity
 @Table(name = "roles")
