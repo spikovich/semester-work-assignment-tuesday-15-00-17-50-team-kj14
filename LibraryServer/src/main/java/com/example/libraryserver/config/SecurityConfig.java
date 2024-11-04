@@ -12,6 +12,9 @@ import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.security.web.SecurityFilterChain;
+
+import static org.springframework.security.config.Customizer.withDefaults;
+
 /**
  * Security configuration class for the application.
  */
@@ -63,7 +66,9 @@ public class SecurityConfig {
                         .requestMatchers("/api/users/register").permitAll()
                         .requestMatchers("/api/books/**").hasAnyRole("USER", "ADMIN")
                         .anyRequest().authenticated()
-                ).httpBasic();
+                )
+                .formLogin(withDefaults()) // Use form login instead of httpBasic
+                .logout(logout -> logout.permitAll());
 
         return http.build();
     }
