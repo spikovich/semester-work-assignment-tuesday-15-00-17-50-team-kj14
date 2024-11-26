@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da77a13c-3163-4876-822d-658e3cb41229" name="Changes" comment="idk i just try to run auth">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryServer/library.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryServer/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/config/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/repository/RoleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/repository/RoleRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/repository/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryServer/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryServer/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="da77a13c-3163-4876-822d-658e3cb41229" name="Changes" comment="change a dependence in users files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +23,11 @@
     </system>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
@@ -55,7 +49,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "Shell Script.gradlew.executor": "Run",
     "com.codeium.enabled": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "main123",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/DDS/IdeaProjects/semester-work-assignment-tuesday-15-00-17-50-team-kj14/LibraryServer",
@@ -125,7 +119,7 @@
       <workItem from="1730682355544" duration="1440000" />
       <workItem from="1730753357205" duration="649000" />
       <workItem from="1731276148380" duration="397000" />
-      <workItem from="1732562802529" duration="753000" />
+      <workItem from="1732562802529" duration="1650000" />
     </task>
     <task id="LOCAL-00001" summary="    create folders for understand">
       <option name="closed" value="true" />
@@ -167,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730684262559</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="change a dependence in users files">
+      <option name="closed" value="true" />
+      <created>1732564069077</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732564069077</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,7 +181,8 @@
     <MESSAGE value="i think so ?" />
     <MESSAGE value="add spring demo" />
     <MESSAGE value="idk i just try to run auth" />
-    <option name="LAST_COMMIT_MESSAGE" value="idk i just try to run auth" />
+    <MESSAGE value="change a dependence in users files" />
+    <option name="LAST_COMMIT_MESSAGE" value="change a dependence in users files" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

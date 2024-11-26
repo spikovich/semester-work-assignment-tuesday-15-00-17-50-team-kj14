@@ -1,0 +1,87 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"da77a13c-3163-4876-822d-658e3cb41229\" name=\"Changes\" comment=\"idk i just try to run auth\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/LibraryServer/library.db\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/LibraryServer/pom.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/LibraryServer/pom.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/config/SecurityConfig.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/config/SecurityConfig.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/controller/UserController.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/controller/UserController.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/model/User.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/model/User.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/repository/RoleRepository.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/repository/RoleRepository.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/repository/UserRepository.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/repository/UserRepository.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/service/UserService.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/service/UserService.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/LibraryServer/src/main/resources/application.properties\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/LibraryServer/src/main/resources/application.properties\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ExternalProjectsManager\">\r\n    <system id=\"GRADLE\">\r\n      <state>\r\n        <projects_view>\r\n          <tree_state>\r\n            <expand />\r\n            <select />\r\n          </tree_state>\r\n        </projects_view>\r\n      </state>\r\n    </system>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 0\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2oG2LQP9skvXgzWH1ypBQjMe6VR\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Batch.gradlew.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"Shell Script.gradlew.executor\": \"Run\",\r\n    \"com.codeium.enabled\": \"true\",\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"ignore.virus.scanning.warn.message\": \"true\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/DDS/IdeaProjects/semester-work-assignment-tuesday-15-00-17-50-team-kj14/LibraryServer\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"project.structure.last.edited\": \"Project\",\r\n    \"project.structure.proportion\": \"0.0\",\r\n    \"project.structure.side.proportion\": \"0.0\",\r\n    \"settings.editor.selected.configurable\": \"preferences.pluginManager\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  },\r\n  \"keyToStringList\": {\r\n    \"DatabaseDriversLRU\": [\r\n      \"sqlite\"\r\n    ]\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\">\r\n    <configuration default=\"true\" type=\"JetRunConfigurationType\">\r\n      <module name=\"fx\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"KotlinStandaloneScriptRunConfigurationType\">\r\n      <module name=\"fx\" />\r\n      <option name=\"filePath\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"JetRunConfigurationType\">\r\n      <module name=\"fx\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"KotlinStandaloneScriptRunConfigurationType\">\r\n      <module name=\"fx\" />\r\n      <option name=\"filePath\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193\" />\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"da77a13c-3163-4876-822d-658e3cb41229\" name=\"Changes\" comment=\"\" />\r\n      <created>1730481535277</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1730481535277</updated>\r\n      <workItem from=\"1730481536360\" duration=\"3981000\" />\r\n      <workItem from=\"1730560447869\" duration=\"379000\" />\r\n      <workItem from=\"1730682355544\" duration=\"1440000\" />\r\n      <workItem from=\"1730753357205\" duration=\"649000\" />\r\n      <workItem from=\"1731276148380\" duration=\"397000\" />\r\n      <workItem from=\"1732562802529\" duration=\"753000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"    create folders for understand\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1730481871533</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1730481871533</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"do login screen\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1730481967750</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1730481967750</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"i think so ?\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1730482294626</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1730482294626</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"add spring demo\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1730508289055</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1730508289055</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"idk i just try to run auth\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1730684262559</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1730684262559</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"6\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"    create folders for understand\" />\r\n    <MESSAGE value=\"do login screen\" />\r\n    <MESSAGE value=\"i think so ?\" />\r\n    <MESSAGE value=\"add spring demo\" />\r\n    <MESSAGE value=\"idk i just try to run auth\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"idk i just try to run auth\" />\r\n  </component>\r\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\r\n    <expand />\r\n    <select />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 395e82b1e16e56ee151d913cff71b2c6cf0dfe55)
++++ b/.idea/workspace.xml	(date 1732564833073)
+@@ -4,18 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="da77a13c-3163-4876-822d-658e3cb41229" name="Changes" comment="idk i just try to run auth">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/LibraryServer/library.db" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/LibraryServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryServer/pom.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/config/SecurityConfig.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/controller/UserController.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/model/User.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/repository/RoleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/repository/RoleRepository.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/repository/UserRepository.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryServer/src/main/java/com/example/libraryserver/service/UserService.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/LibraryServer/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryServer/src/main/resources/application.properties" afterDir="false" />
+-    </list>
++    <list default="true" id="da77a13c-3163-4876-822d-658e3cb41229" name="Changes" comment="change a dependence in users files" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -34,6 +23,11 @@
+     </system>
+   </component>
+   <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="main" />
++      </map>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="ProblemsViewState">
+@@ -55,7 +49,7 @@
+     "RunOnceActivity.git.unshallow": "true",
+     "Shell Script.gradlew.executor": "Run",
+     "com.codeium.enabled": "true",
+-    "git-widget-placeholder": "main",
++    "git-widget-placeholder": "main123",
+     "ignore.virus.scanning.warn.message": "true",
+     "kotlin-language-version-configured": "true",
+     "last_opened_file_path": "C:/Users/DDS/IdeaProjects/semester-work-assignment-tuesday-15-00-17-50-team-kj14/LibraryServer",
+@@ -125,7 +119,7 @@
+       <workItem from="1730682355544" duration="1440000" />
+       <workItem from="1730753357205" duration="649000" />
+       <workItem from="1731276148380" duration="397000" />
+-      <workItem from="1732562802529" duration="753000" />
++      <workItem from="1732562802529" duration="1650000" />
+     </task>
+     <task id="LOCAL-00001" summary="    create folders for understand">
+       <option name="closed" value="true" />
+@@ -167,7 +161,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1730684262559</updated>
+     </task>
+-    <option name="localTasksCounter" value="6" />
++    <task id="LOCAL-00006" summary="change a dependence in users files">
++      <option name="closed" value="true" />
++      <created>1732564069077</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1732564069077</updated>
++    </task>
++    <option name="localTasksCounter" value="7" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -179,7 +181,8 @@
+     <MESSAGE value="i think so ?" />
+     <MESSAGE value="add spring demo" />
+     <MESSAGE value="idk i just try to run auth" />
+-    <option name="LAST_COMMIT_MESSAGE" value="idk i just try to run auth" />
++    <MESSAGE value="change a dependence in users files" />
++    <option name="LAST_COMMIT_MESSAGE" value="change a dependence in users files" />
+   </component>
+   <component name="XSLT-Support.FileAssociations.UIState">
+     <expand />
